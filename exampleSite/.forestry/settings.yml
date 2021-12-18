@@ -5,7 +5,19 @@ admin_path:
 webhook_url: 
 sections:
 - type: heading
-  label: DevOps
+  label: Azure
+- type: heading
+  label: Docker
+- type: heading
+  label: Jenkins
+- type: heading
+  label: Ansible
+- type: heading
+  label: Basics
+- type: heading
+  label: Kubernetes
+- type: heading
+  label: OpenShift
 - type: directory
   path: exampleSite/content/about
   label: About
